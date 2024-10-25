@@ -8,6 +8,15 @@
 ## 📸 Demo
 https://github.com/user-attachments/assets/419bda8b-d6a5-4f54-87b8-acef9d752226
 
+## 💡 Project Motivation
+**MicMasterFlex** was born out of challenges encountered during the [*Robots as Furniture*](https://github.com/robotsasfurniture/passive-sound-localization) project, where configuring a microphone array for sound localization required precise positioning of multiple microphones. 
+
+Given the complex arrangement, writing down positions manually without a visual guide proved inefficient and error-prone. 
+
+MicMasterFlex addresses this by offering an interactive, visual interface to configure microphone positions on a grid, making it easier to plan and visualize the array layout. 
+
+Additionally, the tool generates the necessary `numpy` code for these positions, streamlining the setup process for audio processing and sound localization tasks.
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
