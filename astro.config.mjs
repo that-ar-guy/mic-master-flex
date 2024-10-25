@@ -6,6 +6,8 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://nicolasperez19.github.io',
+  base: 'mic-master-flex',
   integrations: [react(), tailwind()],
   devToolbar: {
     enabled: false
