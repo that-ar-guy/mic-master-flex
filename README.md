@@ -11,7 +11,7 @@ Designed for audio engineers and researchers, this tool offers an intuitive inte
 https://github.com/user-attachments/assets/419bda8b-d6a5-4f54-87b8-acef9d752226
 
 ## 💡 Project Motivation
-**MicMasterFlex** was born out of challenges encountered during the [*Robots as Furniture*](https://github.com/robotsasfurniture/passive-sound-localization) project, where configuring a microphone array for sound localization required precise positioning of multiple microphones. 
+**MicMasterFlex** was born out of challenges encountered during the [*Robots as Furniture*](https://github.com/robotsasfurniture/passive-sound-localization) project at Brown University, where configuring a microphone array for sound localization required precise positioning of multiple microphones. 
 
 Given the complex arrangement, writing down positions manually without a visual guide proved inefficient and error-prone. 
 
