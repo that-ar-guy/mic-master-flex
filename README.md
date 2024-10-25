@@ -44,3 +44,16 @@ All commands are run from the root of the project, from a terminal:
 | `bun run preview`         | Preview your build locally, before deploying     |
 | `bun run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `bun run astro -- --help` | Get help using the Astro CLI                     |
+
+# Citation
+
+If you'd like to cite this project, please use this BibTex:
+
+```
+@article{perez2024micmasterflex,
+  title={MicMasterFlex},
+  author={Nicolas Perez},
+  journal={https://example.com/},
+  year={2024}
+}
+```
