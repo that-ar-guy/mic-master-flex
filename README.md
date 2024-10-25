@@ -3,7 +3,7 @@
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
-## Demo
+## 📸 Demo
 <video width="320" height="240" controls>
   <source src="docs/mic-master-flex-demo.mp4" type="video/mp4">
 </video>
