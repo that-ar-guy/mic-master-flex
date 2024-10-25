@@ -5,7 +5,7 @@
 
 ## Demo
 <video width="320" height="240" controls>
-  <source src="docs/mic-master-flex-demo.mov" type="video/mp4">
+  <source src="docs/mic-master-flex-demo.mp4" type="video/mp4">
 </video>
 
 ## 🚀 Project Structure
