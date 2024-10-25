@@ -4,9 +4,7 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
 
 ## 📸 Demo
-<video width="320" height="240" controls>
-  <source src="docs/mic-master-flex-demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/419bda8b-d6a5-4f54-87b8-acef9d752226
 
 ## 🚀 Project Structure
 
