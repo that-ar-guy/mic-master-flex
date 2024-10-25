@@ -56,7 +56,7 @@ All commands are run from the root of the project, from a terminal:
 | `bun run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `bun run astro -- --help` | Get help using the Astro CLI                     |
 
-# Citation
+## 📝 Citation
 
 If you'd like to cite this project, please use this BibTex:
 
