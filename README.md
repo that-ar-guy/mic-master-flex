@@ -70,19 +70,6 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `bun install`             | Installs dependencies                            |
-| `bun run dev`             | Starts local dev server at `localhost:4321`      |
-| `bun run build`           | Build your production site to `./dist/`          |
-| `bun run preview`         | Preview your build locally, before deploying     |
-| `bun run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `bun run astro -- --help` | Get help using the Astro CLI                     |
-
 ## 📝 Citation
 
 If you'd like to cite this project, please use this BibTex:
