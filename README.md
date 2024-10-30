@@ -1,11 +1,13 @@
-# 🎙️MicMasterFlex
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-**MicMasterFlex** is a web app that allows users to configure the positions of a microphone array on an interactive grid. 
-
-Designed for audio engineers and researchers, this tool offers an intuitive interface for precise microphone placement, enabling users to simulate and optimize array setups for various acoustic applications.
+<div align="center">
+    <h1>
+    🎙️MicMasterFlex
+    </h1>
+    <p>
+      <b>MicMasterFlex</b> is a web app that allows users to configure the positions of a microphone array on an interactive grid. 
+    </p>
+    <p>Designed for audio engineers and researchers, this tool offers an intuitive interface for precise microphone placement, enabling users to simulate and optimize array setups for various acoustic applications.</p>
+    <a href="https://github.com/nicolasperez19/mic-master-flex/"><img src="https://img.shields.io/github/stars/nicolasperez19/mic-master-flex" alt="Github Stars"></a>
+</div>
 
 ## 📸 Demo
 https://github.com/user-attachments/assets/419bda8b-d6a5-4f54-87b8-acef9d752226
