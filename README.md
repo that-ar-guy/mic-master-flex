@@ -21,6 +21,31 @@ MicMasterFlex addresses this by offering an interactive, visual interface to con
 
 Additionally, the tool generates the necessary `numpy` code for these positions, streamlining the setup process for audio processing and sound localization tasks.
 
+## 📋 Prerequisites
+In order to run the project locally, you must have [Bun runtime](https://bun.sh/) installed.
+
+## 💾 Installation
+To install the project locally, clone the git repository and install all dependencies by running the following commands in your terminal:
+```sh
+git clone https://github.com/nicolasperez19/mic-master-flex.git
+cd mic-master-flex
+bun install
+```
+
+## 🏃‍♂️💨 Running the Project Locally
+To run the project locally in developer mode, run the following command in your terminal:
+```sh
+bun run dev
+```
+
+## 🏗️ Building the Project Locally
+To build the project locall, run the following command in your terminal:
+```sh
+bun run build
+```
+
+The production version of the site will be available in the `./dist` folder.
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
