@@ -8,8 +8,18 @@
     <p align="left">Designed for audio engineers and researchers, this tool offers an intuitive interface for precise microphone placement, enabling users to simulate and optimize array setups for various acoustic applications.</p>
     <a href="https://github.com/nicolasperez19/mic-master-flex/"><img src="https://img.shields.io/github/stars/nicolasperez19/mic-master-flex?style=for-the-badge&logo=github&logoColor=white" alt="Github Stars"></a>
     <a href="https://buymeacoffee.com/nico_perez"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-
 </div>
+
+# Table of Contents
+
+1. [Demo](#demo)
+2. [Project motivation](#project-motivation)
+3. [Prerequisites](#prerequisites)
+4. [Installation](#installation)
+5. [Running the project locally](#running-the-project-locally)
+6. [Building the project locally](#building-the-project-locally)
+7. [Project structure](#project-structure)
+8. [Citation](#citation)
 
 ## 📸 Demo
 https://github.com/user-attachments/assets/419bda8b-d6a5-4f54-87b8-acef9d752226
