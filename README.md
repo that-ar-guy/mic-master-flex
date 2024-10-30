@@ -2,10 +2,10 @@
     <h1>
     🎙️MicMasterFlex
     </h1>
-    <p>
+    <p align="left">
       <b>MicMasterFlex</b> is a web app that allows users to configure the positions of a microphone array on an interactive grid. 
     </p>
-    <p>Designed for audio engineers and researchers, this tool offers an intuitive interface for precise microphone placement, enabling users to simulate and optimize array setups for various acoustic applications.</p>
+    <p align="left">Designed for audio engineers and researchers, this tool offers an intuitive interface for precise microphone placement, enabling users to simulate and optimize array setups for various acoustic applications.</p>
     <a href="https://github.com/nicolasperez19/mic-master-flex/"><img src="https://img.shields.io/github/stars/nicolasperez19/mic-master-flex" alt="Github Stars"></a>
 </div>
 
