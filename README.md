@@ -19,7 +19,8 @@
 5. [Running the project locally](#running-the-project-locally)
 6. [Building the project locally](#building-the-project-locally)
 7. [Project structure](#project-structure)
-8. [Citation](#citation)
+8. [Contributors](#contributors)
+9. [Citation](#citation)
 
 ## 📸 Demo
 https://github.com/user-attachments/assets/419bda8b-d6a5-4f54-87b8-acef9d752226
@@ -81,6 +82,13 @@ Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
 Any static assets, like images, can be placed in the `public/` directory.
+
+## 🌟 Contributors
+A huge shoutout to our wonderfull contributors.Yours contributions mean the world to us
+
+<a href="https://github.com/nicolasperez19/mic-master-flex/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=nicolasperez19/mic-master-flex"/>
+</a>
 
 ## 📝 Citation
 
